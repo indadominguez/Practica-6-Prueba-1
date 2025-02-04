@@ -1,5 +1,5 @@
- ## Práctica de clase 1 - POO
-# Desarrolla un programa con las siguientes clases:
+# Práctica de clase 1 - POO
+## Desarrolla un programa con las siguientes clases:
 Clase Cafetera con atributos ubicacion (nombre de la sala o habitación dónde se encuentra), capacidad (la cantidad máxima de café que puede contener la cafetera) y cantidad (la cantidad actual de café que hay en la cafetera).
 Implementa, al menos, lo siguiente:
 
